@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<project>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
+                      http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.menswear</groupId>
 	<artifactId>MensWearWebsite</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Struts 2 Starter</name>
-	<url>http://www.myComp.com</url>
-	<description>Struts 2 Starter</description>
-	
+	<name>Men's Wear Web Applicaiton</name>
+	<description>Men's Wear Web Applicaiton</description>
+
 	<dependencies>
 		<!-- Junit -->
 		<dependency>
@@ -19,22 +20,22 @@
 			<scope>test</scope>
 		</dependency>
 
-		<!--  Struts 2 -->
+		<!-- Struts 2 -->
 		<dependency>
-            <groupId>org.apache.struts</groupId>
-            <artifactId>struts2-core</artifactId>
-            <version>2.0.11.2</version>
-        </dependency>
-        <dependency>
-            <groupId>org.apache.struts</groupId>
-            <artifactId>struts2-sitemesh-plugin</artifactId>
-            <version>2.0.11.2</version>
-        </dependency>
-        <dependency>
-            <groupId>org.apache.struts</groupId>
-            <artifactId>struts2-spring-plugin</artifactId>
-            <version>2.0.11.2</version>
-        </dependency>
+			<groupId>org.apache.struts</groupId>
+			<artifactId>struts2-core</artifactId>
+			<version>2.0.11.2</version>
+		</dependency>
+		<dependency>
+			<groupId>org.apache.struts</groupId>
+			<artifactId>struts2-sitemesh-plugin</artifactId>
+			<version>2.0.11.2</version>
+		</dependency>
+		<dependency>
+			<groupId>org.apache.struts</groupId>
+			<artifactId>struts2-spring-plugin</artifactId>
+			<version>2.0.11.2</version>
+		</dependency>
 
 		<!-- Servlet & Jsp -->
 		<dependency>
@@ -57,32 +58,10 @@
 			<version>1.1.1</version>
 		</dependency>
 
-		<!-- Dwr -->
 		<dependency>
-			<groupId>uk.ltd.getahead</groupId>
-			<artifactId>dwr</artifactId>
-			<version>1.1-beta-3</version>
+			<groupId>log4j</groupId>
+			<artifactId>log4j</artifactId>
+			<version>1.2.14</version>
 		</dependency>
-    </dependencies>
-	
-    <build>
-      <finalName>MensWearWebsite</finalName>
-    	<plugins>
-    		<plugin>
-                <artifactId>maven-compiler-plugin</artifactId>
-                <configuration>
-                   <source>1.5</source>
-                   <target>1.5</target>
-                </configuration>
-            </plugin>
-    		<plugin>
-    			<groupId>org.mortbay.jetty</groupId>
-    			<artifactId>maven-jetty-plugin</artifactId>
-    			<version>6.1.5</version>
-    			<configuration>
-    				<scanIntervalSeconds>10</scanIntervalSeconds>
-    			</configuration>
-    		</plugin>
-    	</plugins>
-    </build>
+	</dependencies>
 </project>

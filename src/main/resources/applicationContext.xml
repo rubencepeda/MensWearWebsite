@@ -4,7 +4,7 @@
 	"http://www.springframework.org/dtd/spring-beans.dtd">
 	
 <beans>
-	<!-- Example of SAF2 action instantiated by Spring -->
-    <bean id="helloWorldAction" class="com.menswear.MensWearWebsite.HelloWorldAction" singleton="false" />
+	<!-- Example of SAF2 action instantiated by Spring 
+    <bean id="helloWorldAction" class="com.menswear.MensWearWebsite.HelloWorldAction" singleton="false" />-->
 </beans>
 

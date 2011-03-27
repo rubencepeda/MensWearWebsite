@@ -6,15 +6,11 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
-	<title>Index</title>
+	<title>HOME</title>
 	<s:head />
 </head>
 <body>
-	<s:form action="helloWorld">
-		<s:textfield label="What is your name?" name="name" />
-		<s:textfield label="What is the date?" name="dateNow" />
-		<s:submit />
-	</s:form>
+	<h1>Here will have some really cool displaying of images.</h1>
 </body>
 </html>
 	
