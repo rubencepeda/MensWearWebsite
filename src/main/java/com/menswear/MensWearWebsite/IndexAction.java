@@ -9,7 +9,7 @@ public class IndexAction extends ActionSupport {
 	private static final Logger LOG = Logger.getLogger(IndexAction.class);
     
     public String execute() throws Exception {
-    	LOG.debug("am actually working!!");
+    	LOG.debug("I am actually working!!");
         return SUCCESS;
     }
 }

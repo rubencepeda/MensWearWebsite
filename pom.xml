@@ -10,6 +10,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Men's Wear Web Applicaiton</name>
 	<description>Men's Wear Web Applicaiton</description>
+	
 
 	<dependencies>
 		<!-- Junit -->
@@ -64,4 +65,7 @@
 			<version>1.2.14</version>
 		</dependency>
 	</dependencies>
+	<build>
+    	<finalName>MensWearWebsite</finalName>
+   	</build>
 </project>
