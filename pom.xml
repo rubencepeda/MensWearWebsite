@@ -9,7 +9,7 @@
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Men's Wear Web Applicaiton</name>
-	<description>Men's Wear Web Applicaiton</description>
+	<description>The Men's Wear Web Applicaiton</description>
 	
 
 	<dependencies>
