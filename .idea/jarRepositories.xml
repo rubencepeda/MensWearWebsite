@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="springsource-external" />
+      <option name="name" value="springsource-external" />
+      <option name="url" value="http://nexus.crinfra.net:8081/nexus/content/groups/EP_REPOSITORY_GROUP" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="wakaleo" />
+      <option name="name" value="wakaleo" />
+      <option name="url" value="http://nexus.crinfra.net:8081/nexus/content/groups/EP_REPOSITORY_GROUP" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="public-jboss" />
+      <option name="name" value="public-jboss" />
+      <option name="url" value="http://nexus.crinfra.net:8081/nexus/content/groups/EP_REPOSITORY_GROUP" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="java.net-releases" />
+      <option name="name" value="java.net-releases" />
+      <option name="url" value="http://nexus.crinfra.net:8081/nexus/content/groups/EP_REPOSITORY_GROUP" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="adobe-public" />
+      <option name="name" value="adobe-public" />
+      <option name="url" value="http://nexus.crinfra.net:8081/nexus/content/groups/EP_REPOSITORY_GROUP" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ep-repository-group" />
+      <option name="name" value="ep-repository-group" />
+      <option name="url" value="http://nexus.crinfra.net:8081/nexus/content/groups/EP_REPOSITORY_GROUP" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="sonatype" />
+      <option name="name" value="sonatype" />
+      <option name="url" value="http://nexus.crinfra.net:8081/nexus/content/groups/EP_REPOSITORY_GROUP" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ep-cortex" />
+      <option name="name" value="ep-cortex" />
+      <option name="url" value="http://nexus.crinfra.net:8081/nexus/content/groups/EP_REPOSITORY_GROUP" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="central" />
+      <option name="url" value="http://nexus.crinfra.net:8081/nexus/content/groups/EP_REPOSITORY_GROUP" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ep-commerce-engine" />
+      <option name="name" value="ep-commerce-engine" />
+      <option name="url" value="http://nexus.crinfra.net:8081/nexus/content/groups/EP_REPOSITORY_GROUP" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="springframework-milestone" />
+      <option name="name" value="springframework-milestone" />
+      <option name="url" value="http://nexus.crinfra.net:8081/nexus/content/groups/EP_REPOSITORY_GROUP" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ep-public" />
+      <option name="name" value="ep-public" />
+      <option name="url" value="http://nexus.crinfra.net:8081/nexus/content/groups/EP_REPOSITORY_GROUP" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="springsource-zodiac-milestone" />
+      <option name="name" value="springsource-zodiac-milestone" />
+      <option name="url" value="http://nexus.crinfra.net:8081/nexus/content/groups/EP_REPOSITORY_GROUP" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="mulesoft-releases" />
+      <option name="name" value="MuleSoft Releases Repository" />
+      <option name="url" value="http://nexus.crinfra.net:8081/nexus/content/groups/EP_REPOSITORY_GROUP" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ep-accelerators" />
+      <option name="name" value="ep-accelerators" />
+      <option name="url" value="http://nexus.crinfra.net:8081/nexus/content/groups/EP_REPOSITORY_GROUP" />
+    </remote-repository>
+  </component>
+</project>
