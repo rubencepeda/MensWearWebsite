@@ -1,4 +1,45 @@
-.classpath
-.project
-.settings/
+*.bak
+*.class
+*~
 target/
+.project
+.settings
+.classpath
+.DS_Store
+.idea
+*.imlHELP.md
+.gradle
+build/
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+
+### STS ###
+.apt_generated
+.factorypath
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+*.iws
+*.iml
+*.ipr
+out/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### OpenApi Generator ###
+.openapi-generator/
+
+### Access logs locally ###
+logs/
+/integration-tests/build/
+app/src/main/generated/
